@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>disable</Nullable>
+        <Description>Zavand.Manana.Data classes for SQLite</Description>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <PackageReference Include="System.Data.SQLite.Core" Version="1.0.118" />
+      <PackageReference Include="Zavand.Manana.Data" Version="1.0.0" />
+    </ItemGroup>
+
+</Project>
