@@ -1,0 +1,6 @@
+# Zavand.Manana.Data.SQLite
+
+.idea/
+obj/
+bin/
+*.DotSettings.user
